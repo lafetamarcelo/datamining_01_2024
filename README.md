@@ -4,8 +4,17 @@ Aqui temos os conteúdos do nosso projeto feito durante a aula de Data Mining.
 
 ## Apresentações das aulas
 
-- [Aula 1](/presentations/introduction_class.pdf)
-- [Aula 2](/presentations/data_mining_techniques_class.pdf)
+- [Aula 1 - Apresentação do curso](/presentations/introduction_class.pdf)
+  - Aula de apresentação do curso e definição de Data Mining
+- [Aula 2 - Entendendo o problema e os dados](/presentations/data_mining_techniques_class.pdf)
+  - Aprensentação do problema
+  - Carregamento dos dados
+  - Entendimento dos dados
+  - Entendimento do fenômeno físico
+  - Entendimento das ferramentas de processamento
+  - Aplicação das ferramentas de processamento
+  - Processamento dos dados
+  - Visualização dos dados/fenômeno
 
 ## Referências
 
