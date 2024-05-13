@@ -5,7 +5,10 @@ Aqui temos os conteúdos do nosso projeto feito durante a aula de Data Mining.
 ## Apresentações das aulas
 
 - [Aula 1 - Apresentação do curso](/presentations/introduction_class.pdf)
-  - Aula de apresentação do curso e definição de Data Mining
+  - Aula de apresentação do curso
+  - Definição de Data Mining
+  - Criação do projeto de solução
+  - [Resultado de software](/bearings/README.md)
 - [Aula 2 - Entendendo o problema e os dados](/presentations/data_mining_techniques_class.pdf)
   - Aprensentação do problema
   - Carregamento dos dados
@@ -15,12 +18,16 @@ Aqui temos os conteúdos do nosso projeto feito durante a aula de Data Mining.
   - Aplicação das ferramentas de processamento
   - Processamento dos dados
   - Visualização dos dados/fenômeno
+  - [Resultados de software](/bearings/notebooks/Aula%202.ipynb)
 
 ## Referências
 
 Algumas referências discutidas durante a aula:
 
 - [Kedro Documentation](https://docs.kedro.org/en/stable/)
+- [Pandas Documentation](https://pandas.pydata.org/)
+- [Numpy Documentation](https://numpy.org/devdocs/)
+- [Scipy Documentation](https://docs.scipy.org/doc/scipy/)
 - [Weight and Biases](https://wandb.ai/site)
 
 Alguns modelos poderosos e interessantes:
