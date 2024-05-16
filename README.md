@@ -19,6 +19,12 @@ Aqui temos os conteúdos do nosso projeto feito durante a aula de Data Mining.
   - Processamento dos dados
   - Visualização dos dados/fenômeno
   - [Resultados de software](/bearings/notebooks/Aula%202.ipynb)
+- [Aula 3 - Aplicando modelagem e esquema de solução CRISPDM](/recordings/)
+  - Discussão sobre arquitetura de solução
+  - Estrutura de processamento de dados
+  - Redução de dimensionalidade (PCA)
+  - Treinamento e validação de modelos
+  - [Resultados de software](/bearings/notebooks/Aula%203.ipynb)
 
 ## Referências
 
